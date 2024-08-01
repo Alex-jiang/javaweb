@@ -14,20 +14,20 @@ themeConfig: {
 
             items: [
 
-                { text: 'Github', link: 'https://github.com/mqyqingfeng' },
+                { text: 'Github', link: 'https://github.com/Alex-jiang/' },
 
-                { text: '掘金', link: 'https://juejin.cn/user/712139234359182/posts' }
+                { text: '掘金', link: 'https://github.com/Alex-jiang/' }
 
             ]
         }
     ],
     sidebar: [
         {
-         title: '歡迎學習',
+         title: '欢迎学习',
          path: '/',
          collapsable: false,
          children: [
-            {title: "學前必讀",
+            {title: "学前必读",
             path: '/'
             }
          ]
